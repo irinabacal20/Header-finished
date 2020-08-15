@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap");
+
+.container-note {
+  max-width: 960px;
+}
+.container-note h1 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 56px;
+  line-height: 64px;
+}
+.container-note p {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 21px;
+  line-height: 36px;
+}
+.container-note img {
+  width: 938px;
+  height: 624px;
+  left: 251px;
+  top: 672px;
+}
+
+.container-note h2 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 32px;
+  line-height: 36px;
+}
+
+.container-note a {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 21px;
+  line-height: 36px;
+  text-decoration: none;
+  color: #208afa;
+}
+.container-note a:hover {
+  color: black;
+}
+
+ul {
+  font-family: "Roboto";
+  font-size: 15px;
+}
